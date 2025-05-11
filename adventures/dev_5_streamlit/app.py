@@ -1,3 +1,11 @@
+"""
+# How to run this code:
+# Save it and run the following command in terminal
+
+streamlit run
+"""
+
+
 import streamlit as st
 
 # Set the title of the app
